@@ -1,7 +1,7 @@
 # Setup
 title: Amin Laanaya
-url: https://blog.laanaya.org
-description: "This is the personal blog of Amin Laanaya, one entry per week. You can contact him via amin@laanaya.org or Discord with Bobcycle#0021."
+url: https://journal.laanaya.org
+description: "This is the personal journal of Amin Laanaya, one entry per week. You can contact him via amin@laanaya.org or Discord with Bobcycle#0021."
 paginate: 1
 baseurl: ""
 permalink: pretty
@@ -28,6 +28,6 @@ author:
 version: 3.0.0
 nav:
   - title: Archive
-    url: https://blog.laanaya.org/archive
+    url: https://journal.laanaya.org/archive
   - title: Home
     url: https://laanaya.org/
