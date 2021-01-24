@@ -1,0 +1,33 @@
+# Setup
+title: Amin Laanaya
+url: https://blog.laanaya.org
+description: "This is the personal blog of Amin Laanaya, one entry per week. You can contact him via amin@laanaya.org or Discord with Bobcycle#0021."
+paginate: 1
+baseurl: ""
+permalink: pretty
+
+plugins:
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-seo-tag
+exclude:
+  - .editorconfig
+  - .git
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
+sass:
+  sass_dir: _sass
+  style: ':compressed'
+author:
+  name: Amin Laanaya
+  url: 'https://laanaya.org'
+  email: amin@laanaya.org
+version: 3.0.0
+nav:
+  - title: Archive
+    url: https://blog.laanaya.org/archive
+  - title: Home
+    url: https://laanaya.org/
