@@ -1,3 +1,5 @@
-# I'm havin a blast!
+# How to make your own journal
 
-This is the repository of my personal blog. It is in fact my first "actual" GitHub repository which I am working actively in. I've been able to learn many things by working on this blog, running on Jekyll. Mainly being able to commit, working with Ruby and other nuances which real programmers do day to day. It's quite fun and I feel big smart.
+1. Create an account via https://github.com/ to start your journey.
+2. Download github desktop via https://desktop.github.com/.
+2. At the top right of this page, click on "Fork" to copy the files.
