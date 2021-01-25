@@ -27,7 +27,9 @@ author:
   email: amin@laanaya.org
 version: 3.0.0
 nav:
-  - title: Archive
+  - title: Older
     url: https://journal.laanaya.org/archive
+  - title: P&L
+    url: https://docs.google.com/spreadsheets/d/1NtzdYQQHBkAMlRv4YanNGk7Cb_AH9ktPyNom4WiNX80/edit?usp=sharing
   - title: Home
     url: https://laanaya.org/
