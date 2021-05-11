@@ -1,6 +1,6 @@
 # Setup
 title: Amin Laanaya
-url: https://journal.laanaya.org
+url: https://journal.laanaya.me
 description: "This is the personal trading journal of Amin Laanaya. You can contact him via amin@laanaya.org or Discord with Bobcycle#0021."
 paginate: 1
 baseurl: ""
@@ -23,11 +23,11 @@ sass:
   style: ':compressed'
 author:
   name: Amin Laanaya
-  url: 'https://laanaya.org'
+  url: 'https://laanaya.me'
   email: amin@laanaya.org
 version: 3.0.0
 nav:
   - title: Older
-    url: https://journal.laanaya.org/archive
+    url: https://journal.laanaya.me/archive
   - title: Home
-    url: https://laanaya.org/
+    url: https://laanaya.me/
